@@ -14,7 +14,7 @@
 
 ## Connect with me 💻
 <a href="https://github.com/ThanhVux2102">
-  <img align="left" alt="GITHUB" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
+  <img align="left" alt="GITHUB" width="60px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
 </a>
 <a href="https://www.facebook.com/thanhh.vuu/">
   <img align="center" alt="FACEBOOK" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-large-size-PNG.png" />
@@ -26,4 +26,4 @@
 <br />
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=ThanhVux2102&style=flat-square&color=blue)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=ThanhVux2102&style=flat-square&color=blue) -->
