@@ -14,13 +14,13 @@
 
 ## Connect with me 💻
 <a href="https://github.com/ThanhVux2102">
-  <img align="left" alt="GITHUB" width="22px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" />
+  <img align="left" alt="GITHUB" width="35px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" />
 </a>
 <a href="https://www.facebook.com/thanhh.vuu/">
-  <img align="left" alt="FACEBOOK" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-large-size-PNG.png" />
+  <img align="left" alt="FACEBOOK" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-large-size-PNG.png" />
 </a>
 <a href="https://www.instagram.com/thanhf_vux13/">
-  <img align="left" alt="INSTAGRAM" width="22px" src="https://cdn.prod.website-files.com/67c783f1466dbd34a7beaf8e/67c78a2bb0ff12916456be49_678fac975f16f895f8710e1b_678fac4dc0549a39f28ab717_instagram-logo-instagram-icon-transparent-free-png.webp" />
+  <img align="left" alt="INSTAGRAM" width="35px" src="https://cdn.prod.website-files.com/67c783f1466dbd34a7beaf8e/67c78a2bb0ff12916456be49_678fac975f16f895f8710e1b_678fac4dc0549a39f28ab717_instagram-logo-instagram-icon-transparent-free-png.webp" />
 </a>
 
 <br />
