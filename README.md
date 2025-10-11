@@ -14,13 +14,13 @@
 
 ## Connect with me 💻
 <a href="https://github.com/ThanhVux2102">
-  <img align="left" alt="GITHUB" width="35px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
+  <img align="left" alt="GITHUB" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
 </a>
 <a href="https://www.facebook.com/thanhh.vuu/">
   <img align="center" alt="FACEBOOK" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-large-size-PNG.png" />
 </a>
 <a href="https://www.instagram.com/thanhf_vux13/">
-  <img align="right" alt="INSTAGRAM" width="45px" src="https://cdn.prod.website-files.com/67c783f1466dbd34a7beaf8e/67c78a2bb0ff12916456be49_678fac975f16f895f8710e1b_678fac4dc0549a39f28ab717_instagram-logo-instagram-icon-transparent-free-png.webp" />
+  <img align="left" alt="INSTAGRAM" width="60px" src="https://cdn.prod.website-files.com/67c783f1466dbd34a7beaf8e/67c78a2bb0ff12916456be49_678fac975f16f895f8710e1b_678fac4dc0549a39f28ab717_instagram-logo-instagram-icon-transparent-free-png.webp" />
 </a>
 
 <br />
