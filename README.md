@@ -13,17 +13,12 @@
 | AI/ML | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"  height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/> <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" alt="Yolo" width="40" height="40"/> <img src="https://logo.svgcdn.com/s/roboflow-dark-8x.png" alt="roboflow" width="40" height="40"/> |
 
 ## Connect with me 💻
-<a href="https://github.com/ThanhVux2102">
-  <img align="left" alt="GITHUB" width="60px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
-</a>
-<a href="https://www.facebook.com/thanhh.vuu/">
-  <img align="center" alt="FACEBOOK" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-large-size-PNG.png" />
-</a>
-<a href="https://www.instagram.com/thanhf_vux13/">
-  <img align="left" alt="INSTAGRAM" width="60px" src="https://cdn.prod.website-files.com/67c783f1466dbd34a7beaf8e/67c78a2bb0ff12916456be49_678fac975f16f895f8710e1b_678fac4dc0549a39f28ab717_instagram-logo-instagram-icon-transparent-free-png.webp" />
-</a>
+## 👩‍💻 About Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-username/)
+
 
 <br />
 <br />
 
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=ThanhVux2102&style=flat-square&color=blue) -->
